@@ -1,2 +1,73 @@
-# Kaggle-Codes
- A repository containing my Kaggle Notebooks
+# Kaggle Starter Codes for common ML tasks
+ A repository containing starter codes for Machine learning problems.
+
+ ## 1 Getting started with NLP -
+ > ### 1.1 A general Intoduction
+
+This notebook explains the concepts of NLP with respect to this current competition. NLP is the field of study that focuses on the interactions between human language and computers. NLP sits at the intersection of computer science, artificial intelligence, and computational linguistics[[source](https://en.wikipedia.org/wiki/Natural_language_processing)]. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.This Kaggle notebook  with basic codes t
+
+Table of Contents
+1. Importing the necessary libraries
+2. Reading the datasets
+3. Basic EDA
+4. Text data processing
+5. Transforming tokens to vectors
+6. Buiding a Text Classification model
+
+
+
+> ### 1.2 CountVectorizers | TFIDF | Hashing Vectorizer
+
+ This notebook comes as a second part to the Getting started with NLP Notebooks .In this notebook we shall study the various ways of vectorizing text data.Vectorization converts text data into feature vectors.
+
+ ### Dataset
+[Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) - A Getting started Compeition on Kaggle
+
+<hr>
+
+## 2 [Getting started with Time Series Analysis](https://www.kaggle.com/parulpandey/getting-started-with-time-series-using-pandas)
+
+Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions.
+
+### Dataset
+[NIFTY-50 Stock Market Data (2000-2019)](https://www.kaggle.com/rohanrao/nifty50-stock-market-data)
+
+The data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from [NSE (National Stock Exchange)](https://www.nseindia.com/) India. All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 31st December, 2019.
+<hr>
+
+## [Getting started with Machine Learning Intrepretebility](https://www.kaggle.com/parulpandey/intrepreting-machine-learning-models)
+
+Extracting human understandable insights from any Machine Learning mode. Some techniques explained in this notebook are:
+
+* Permutation Importance using ELI5 library
+* Partial Dependence Plots
+* SHAP Values
+* Advanced Uses of SHAP Values
+
+### Dataset
+[Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+<hr>
+
+## [Getting started with Dimensionality Reduction Techniques in Python
+A 3 part serieson Dimensionality reduction techniques using the Kannada MNIST dataset. In this series of notebooks, we shall study about three Dimensionality reduction techniques using the Kannada MNIST dataset. The techniques are PCA, t-SNE and UMAP.
+
+> ### Part 1: [Visualizing Kannada MNIST with PCA](https://www.kaggle.com/parulpandey/part1-visualizing-kannada-mnist-with-pca)
+
+
+> ### Part 2: [Visualizing Kannada MNIST with t-SNE](https://www.kaggle.com/parulpandey/visualizing-kannada-mnist-with-t-sne)
+
+
+
+> ### Part 3: [Visualizing Kannada MNIST with UMAP](https://www.kaggle.com/parulpandey/part3-visualising-kannada-mnist-with-umap)
+
+
+### Dataset
+[Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST)
+The goal of this competition is to provide a simple extension to the classic MNIST competition we're all familiar with. Instead of using Arabic numerals, it uses a recently-released dataset of Kannada digits.MNIST like datatset for Kannada handwritten digits.
+<hr>
+
+## [Getting started with Geospatial Data in Python
+
+
+## Getting started with H2O libraies in Python
