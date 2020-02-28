@@ -1,5 +1,6 @@
 # Kaggle Starter Codes for common ML tasks
- A repository containing starter codes for Machine learning problems.
+ A repository containing some of my kaggle notebooks which could be helpful as starter codes.
+ My Kaggle Profile: https://www.kaggle.com/parulpandey
 
  ## 1 Getting started with NLP -
  > ### [1.1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-feature-vectors)
@@ -69,5 +70,14 @@ The goal of this competition is to provide a simple extension to the classic MNI
 
 ## 5 Getting started with Geospatial Data in Python
 
+> ### 1. [Visualising Geospatial data to get insights](https://www.kaggle.com/parulpandey/visualising-geospatial-data-to-get-insights)
+The beauty of using Python is that it offers libraries for every data visualisation need. One such library is Folium which comes in handy for visualising Geographic data (Geo data). Geographic data (Geo data) science is a subset of data science that deals with location-based data i.e description of objects and their relationship in space.
+
+> ### 2. [Wuhan Coronavirus : A geographical analysis](https://www.kaggle.com/parulpandey/wuhan-coronavirus-a-geographical-analysis)
+
 
 ## 6 Getting started with H2O libraies in Python
+
+> ### 1. [Kannada MNIST with H2O DeepLearning](https://www.kaggle.com/parulpandey/kannada-mnist-with-h2o-deeplearning)
+> ### 2. [Speed up your Data munging with Python's Datatable](https://www.kaggle.com/parulpandey/speed-up-your-data-munging-with-python-s-datatable)
+> ### 3. [Automating the ML workflow with H2O AutoML](https://www.kaggle.com/parulpandey/automating-the-ml-workflow-with-h2o-automl)
