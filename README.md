@@ -3,7 +3,7 @@
  My Kaggle Profile: https://www.kaggle.com/parulpandey
 
  ## 1 Getting started with NLP -
- > ### [1.1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-feature-vectors)
+ > ### [1.1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-a-general-intro)
 
 This notebook explains the concepts of NLP with respect to this current competition. NLP is the field of study that focuses on the interactions between human language and computers. NLP sits at the intersection of computer science, artificial intelligence, and computational linguistics[[source](https://en.wikipedia.org/wiki/Natural_language_processing)]. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.This Kaggle notebook  with basic codes t
 
