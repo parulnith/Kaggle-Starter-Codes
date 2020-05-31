@@ -5,6 +5,8 @@ My Kaggle Profile: https://www.kaggle.com/parulpandey
 
 ## Time Series Analysis
 
+![](https://imgur.com/m7fEpCx.png)
+
 * 1 [Getting started with Time Series using Pandas](https://www.kaggle.com/parulpandey/getting-started-with-time-series-using-pandas)
 
 Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions.In this notebook, I have introduced some common techniques used in time-series analysis and I walk through the iterative steps required to manipulate, visualize time-series data.
