@@ -16,28 +16,19 @@ Time series data is a sequence of data points in chronological order that is use
 The objective of this notebook is to explore the given NIFTY-50 data and along with the sectoral indices and visualise them to obtain important information.However, if you want to understand the nuances of Time Series data and how to get started with it, there is another notebook which caters to that.
 <hr>
 
- ## 2 Getting started with NLP -
- > ### [1.1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-a-general-intro)
+ ## 2  NLP - Getting started
+ 
+ ![](https://imgur.com/5rCYCTd.png)
+ 
+ > ### [1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-a-general-intro)
 
 This notebook explains the concepts of NLP with respect to this current competition. NLP is the field of study that focuses on the interactions between human language and computers. NLP sits at the intersection of computer science, artificial intelligence, and computational linguistics[[source](https://en.wikipedia.org/wiki/Natural_language_processing)]. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.This Kaggle notebook  with basic codes t
 
-Table of Contents
-1. Importing the necessary libraries
-2. Reading the datasets
-3. Basic EDA
-4. Text data processing
-5. Transforming tokens to vectors
-6. Buiding a Text Classification model
 
+> ### 2 [CountVectorizers | TFIDF | Hashing Vectorizer](https://www.kaggle.com/parulpandey/getting-started-with-nlp-feature-vectors)
 
-
-> ### 1.2 [CountVectorizers | TFIDF | Hashing Vectorizer](https://www.kaggle.com/parulpandey/getting-started-with-nlp-feature-vectors)
-
- This notebook comes as a second part to the Getting started with NLP Notebooks .In this notebook we shall study the various ways of vectorizing text data.Vectorization converts text data into feature vectors.
-
- ### Dataset
-[Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) - A Getting started Compeition on Kaggle
-
+ This notebook comes as a second part to the Getting started with NLP Notebooks .In this notebook we study the various ways of vectorizing text data.
+ 
 <hr>
 
 ## 3 [Getting started with Machine Learning Intrepretebility](https://www.kaggle.com/parulpandey/intrepreting-machine-learning-models)
