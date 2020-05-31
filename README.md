@@ -1,8 +1,20 @@
 # Kaggle Starter Codes for common ML tasks
- A repository containing some of my kaggle notebooks which could be helpful as starter codes.
- My Kaggle Profile: https://www.kaggle.com/parulpandey
+A repository containing some of my kaggle notebooks which could be helpful as starter codes for beginners.
 
- ## 1 Getting started with NLP -
+My Kaggle Profile: https://www.kaggle.com/parulpandey
+
+
+## 1 [Getting started with Time Series Analysis](https://www.kaggle.com/parulpandey/getting-started-with-time-series-using-pandas)
+
+Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions.
+
+### Dataset
+[NIFTY-50 Stock Market Data (2000-2019)](https://www.kaggle.com/rohanrao/nifty50-stock-market-data)
+
+The data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from [NSE (National Stock Exchange)](https://www.nseindia.com/) India. All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 31st December, 2019.
+<hr>
+
+ ## 2 Getting started with NLP -
  > ### [1.1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-a-general-intro)
 
 This notebook explains the concepts of NLP with respect to this current competition. NLP is the field of study that focuses on the interactions between human language and computers. NLP sits at the intersection of computer science, artificial intelligence, and computational linguistics[[source](https://en.wikipedia.org/wiki/Natural_language_processing)]. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.This Kaggle notebook  with basic codes t
@@ -24,16 +36,6 @@ Table of Contents
  ### Dataset
 [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started) - A Getting started Compeition on Kaggle
 
-<hr>
-
-## 2 [Getting started with Time Series Analysis](https://www.kaggle.com/parulpandey/getting-started-with-time-series-using-pandas)
-
-Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions.
-
-### Dataset
-[NIFTY-50 Stock Market Data (2000-2019)](https://www.kaggle.com/rohanrao/nifty50-stock-market-data)
-
-The data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from [NSE (National Stock Exchange)](https://www.nseindia.com/) India. All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 31st December, 2019.
 <hr>
 
 ## 3 [Getting started with Machine Learning Intrepretebility](https://www.kaggle.com/parulpandey/intrepreting-machine-learning-models)
