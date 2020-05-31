@@ -3,15 +3,15 @@ A repository containing some of my kaggle notebooks which could be helpful as st
 
 My Kaggle Profile: https://www.kaggle.com/parulpandey
 
+## Time Series Analysis
 
-## 1 [Getting started with Time Series Analysis](https://www.kaggle.com/parulpandey/getting-started-with-time-series-using-pandas)
+* 1 [Getting started with Time Series using Pandas](https://www.kaggle.com/parulpandey/getting-started-with-time-series-using-pandas)
 
-Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions.
+Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions.In this notebook, I have introduced some common techniques used in time-series analysis and I walk through the iterative steps required to manipulate, visualize time-series data.
 
-### Dataset
-[NIFTY-50 Stock Market Data (2000-2019)](https://www.kaggle.com/rohanrao/nifty50-stock-market-data)
+* 2 [Nifty data EDA](https://www.kaggle.com/parulpandey/nifty-data-eda)
 
-The data is the price history and trading volumes of the fifty stocks in the index NIFTY 50 from [NSE (National Stock Exchange)](https://www.nseindia.com/) India. All datasets are at a day-level with pricing and trading values split across .cvs files for each stock along with a metadata file with some macro-information about the stocks itself. The data spans from 1st January, 2000 to 31st December, 2019.
+The objective of this notebook is to explore the given NIFTY-50 data and along with the sectoral indices and visualise them to obtain important information.However, if you want to understand the nuances of Time Series data and how to get started with it, there is another notebook which caters to that.
 <hr>
 
  ## 2 Getting started with NLP -
