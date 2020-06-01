@@ -16,22 +16,24 @@ Time series data is a sequence of data points in chronological order that is use
 The objective of this notebook is to explore the given NIFTY-50 data and along with the sectoral indices and visualise them to obtain important information.However, if you want to understand the nuances of Time Series data and how to get started with it, there is another notebook which caters to that.
 <hr>
 
- ## 2  NLP - Getting started
+ ## NLP - Getting started
  
  ![](https://imgur.com/5rCYCTd.png)
  
- > ### [1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-a-general-intro)
+ * [1 A general Intoduction](https://www.kaggle.com/parulpandey/getting-started-with-nlp-a-general-intro)
 
 This notebook explains the concepts of NLP with respect to this current competition. NLP is the field of study that focuses on the interactions between human language and computers. NLP sits at the intersection of computer science, artificial intelligence, and computational linguistics[[source](https://en.wikipedia.org/wiki/Natural_language_processing)]. NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.This Kaggle notebook  with basic codes t
 
 
-> ### 2 [CountVectorizers | TFIDF | Hashing Vectorizer](https://www.kaggle.com/parulpandey/getting-started-with-nlp-feature-vectors)
+* [2 CountVectorizers | TFIDF | Hashing Vectorizer](https://www.kaggle.com/parulpandey/getting-started-with-nlp-feature-vectors)
 
  This notebook comes as a second part to the Getting started with NLP Notebooks .In this notebook we study the various ways of vectorizing text data.
  
 <hr>
 
-## 3 [Getting started with Machine Learning Intrepretebility](https://www.kaggle.com/parulpandey/intrepreting-machine-learning-models)
+## Dimensionality reduction
+
+*  [Getting started with Machine Learning Intrepretebility](https://www.kaggle.com/parulpandey/intrepreting-machine-learning-models)
 
 Extracting human understandable insights from any Machine Learning mode. Some techniques explained in this notebook are:
 
@@ -40,10 +42,6 @@ Extracting human understandable insights from any Machine Learning mode. Some te
 * SHAP Values
 * Advanced Uses of SHAP Values
 
-### Dataset
-[Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
-This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
-<hr>
 
 ## 4 Getting started with Dimensionality Reduction Techniques in Python
 A 3 part serieson Dimensionality reduction techniques using the Kannada MNIST dataset. In this series of notebooks, we shall study about three Dimensionality reduction techniques using the Kannada MNIST dataset. The techniques are PCA, t-SNE and UMAP.
@@ -57,10 +55,6 @@ A 3 part serieson Dimensionality reduction techniques using the Kannada MNIST da
 
 > ### Part 3: [Visualizing Kannada MNIST with UMAP](https://www.kaggle.com/parulpandey/part3-visualising-kannada-mnist-with-umap)
 
-
-### Dataset
-[Kannada MNIST](https://www.kaggle.com/c/Kannada-MNIST)
-The goal of this competition is to provide a simple extension to the classic MNIST competition we're all familiar with. Instead of using Arabic numerals, it uses a recently-released dataset of Kannada digits.MNIST like datatset for Kannada handwritten digits.
 <hr>
 
 ## 5 Getting started with Geospatial Data in Python
@@ -71,7 +65,7 @@ The beauty of using Python is that it offers libraries for every data visualisat
 > ### 2. [Wuhan Coronavirus : A geographical analysis](https://www.kaggle.com/parulpandey/wuhan-coronavirus-a-geographical-analysis)
 
 
-## 6 Getting started with H2O libraies in Python
+## 6 Getting started with H2O libraries in Python
 
 > ### 1. [Kannada MNIST with H2O DeepLearning](https://www.kaggle.com/parulpandey/kannada-mnist-with-h2o-deeplearning)
 > ### 2. [Speed up your Data munging with Python's Datatable](https://www.kaggle.com/parulpandey/speed-up-your-data-munging-with-python-s-datatable)
